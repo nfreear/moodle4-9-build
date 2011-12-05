@@ -1,0 +1,3 @@
+[submodule "moodle"]
+	path = moodle
+	url = git@github.com:moodle/moodle
